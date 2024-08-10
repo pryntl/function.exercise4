@@ -12,7 +12,7 @@ function collect(array1, array2) {
   //then at the end we return the main var.
   return output;
 }
-//testing with already arrays.
+//testing with already arrays
 console.log(collect([1, 2], [3, 4]));
 //testing with strings.
 console.log(collect("1", "2"));
